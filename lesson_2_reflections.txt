@@ -11,4 +11,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 Push all the required logical changes in a commit to the staging area and then move the rest of the files in this section to the commit repository.
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are great when we are going to make new changes or experimental changes to the code base.
+This makes sure that the original code is intact while we are making new configurations to the code.
 
