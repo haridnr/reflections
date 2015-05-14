@@ -15,3 +15,12 @@ What are some situations when branches would be helpful in keeping your history 
 Branches are great when we are going to make new changes or experimental changes to the code base.
 This makes sure that the original code is intact while we are making new configurations to the code.
 
+How do the diagrams help you visualize the branch structure?
+The diagrams gives an an understanding of the various branches existing in the project and help us make sure that we do not lost any changes in the code base.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging combines the code in the branch into the master and then this will allow us to automatically join code from one set of files with another.
+The diagram can help us understand the sequence of operations so that we can avoid problems.
+
+
+
