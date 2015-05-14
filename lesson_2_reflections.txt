@@ -6,4 +6,9 @@ When we initialize a repository git creates a .git folder containing important d
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The stagind area is an intermediate location between the Repo and the working area. The files which are temporarily completed can be moved to this area and then later can be moved to other the repo.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Push all the required logical changes in a commit to the staging area and then move the rest of the files in this section to the commit repository.
+
+
 
