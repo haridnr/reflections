@@ -11,5 +11,6 @@ Fork - Take someone else's code and create a copy in your own account and then m
 Clone - Directly copy over code and history information from a local or remote repo into one's computer.
 Branch - Create a seperate line of commits in the same repo other than a master for example.
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a local copy enables us to work offline when we need to merge various changes.
 
