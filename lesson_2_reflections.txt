@@ -2,7 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When we initialize a repository git creates a .git folder containing important details of the files in the current folder and then later can be used to track changes.
 
-
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The stagind area is an intermediate location between the Repo and the working area. The files which are temporarily completed can be moved to this area and then later can be moved to other the repo.
 
