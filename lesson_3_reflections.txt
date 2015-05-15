@@ -6,4 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 It's better to have complete control of what is happening in our local code base. Automatic pulls could lead to compilation errors and 
 other unwanted changed to your development.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork - Take someone else's code and create a copy in your own account and then modify it.
+Clone - Directly copy over code and history information from a local or remote repo into one's computer.
+Branch - Create a seperate line of commits in the same repo other than a master for example.
+
+
 
