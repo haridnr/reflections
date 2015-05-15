@@ -22,5 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 Merging combines the code in the branch into the master and then this will allow us to automatically join code from one set of files with another.
 The diagram can help us understand the sequence of operations so that we can avoid problems.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging helps by reducing our burden of merging always, but it also makes sure that everything does not get messed up when there are conflicts in the code due to changes made by many people using the code.
 
 
