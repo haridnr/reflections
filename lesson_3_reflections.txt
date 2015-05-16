@@ -14,3 +14,9 @@ Branch - Create a seperate line of commits in the same repo other than a master 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a local copy enables us to work offline when we need to merge various changes.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without git or github it would be hard to do this as I would have to always mail my code and then the other collaborator would 
+have to do a comparism between all the files before making another changes.
+Basically it would be insane to track all the changes taking place.
+
+
